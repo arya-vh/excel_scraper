@@ -1,0 +1,14 @@
+{
+  "run_date": "2026-02-10T16:27:24.167462",
+  "total_employees": 1000,
+  "new_hires_last_30d": 0,
+  "top_5_roles": {
+    "Director": 121,
+    "Sr. Manger": 110,
+    "Vice President": 105,
+    "Manager": 98,
+    "Sr. Analyst": 70
+  },
+  "avg_tenure_days": 5056,
+  "email_domains": {}
+}
